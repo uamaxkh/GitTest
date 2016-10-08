@@ -16,7 +16,6 @@ namespace GitTest
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Console.WriteLine("test");
             Application.Run(new Form1());
         }
     }
